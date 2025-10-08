@@ -1,7 +1,7 @@
 variable "bucket" {
   description = "The name of the S3 bucket"
   type        = string
-  default     = "class388-terraform-backend-bucket"
+  default     = "class390-terraform-backend-bucket"
 }
 
 variable "table" {
